@@ -1,10 +1,33 @@
-html {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+section {
+    margin: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+aside {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 20px 0;
+    border-left: 3px solid #333;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
 }
